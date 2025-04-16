@@ -1,0 +1,30 @@
+Worker-5 started.
+Worker-3 started.
+Worker-2 started.
+Worker-1 started.
+Worker-4 started.
+Worker-5 completed Task-1: Processed Data-1
+Worker-3 completed Task-2: Processed Data-2
+Worker-2 completed Task-3: Processed Data-3
+Worker-1 completed Task-4: Processed Data-4
+Worker-4 completed Task-5: Processed Data-5
+Worker-2 completed Task-8: Processed Data-8
+Worker-4 completed Task-10: Processed Data-10
+Worker-1 completed Task-9: Processed Data-9
+Worker-5 completed Task-6: Processed Data-6
+Worker-3 completed Task-7: Processed Data-7
+Worker-2 completed Task-11: Processed Data-11
+Worker-1 completed Task-13: Processed Data-13
+Worker-2 completed Task-16: Processed Data-16
+Worker-4 completed Task-12: Processed Data-12
+Worker-5 completed Task-14: Processed Data-14
+Worker-3 completed Task-15: Processed Data-15
+Worker-3 finished.
+Worker-1 completed Task-17: Processed Data-17
+Worker-1 finished.
+Worker-2 completed Task-18: Processed Data-18
+Worker-2 finished.
+Worker-5 completed Task-20: Processed Data-20
+Worker-5 finished.
+Worker-4 completed Task-19: Processed Data-19
+Worker-4 finished.
